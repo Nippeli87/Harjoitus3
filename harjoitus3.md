@@ -1,0 +1,1 @@
+1. Sisätilapaikannustta hyödyntäen opettaja voisi nähdä ketkä ovat luennolla paikalla.
